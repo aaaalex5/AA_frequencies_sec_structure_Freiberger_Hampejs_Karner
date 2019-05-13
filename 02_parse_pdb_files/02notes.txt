@@ -1,0 +1,4 @@
+02_parse_pdb_files 
+- bin: symbolic link vom verwendeten python file
+- data: Verklinkung auf Rohdaten in 01_downlod/data Ordner und die AA Sequenzen des Results Ordners. 
+- results: ein txt file mit 4 Spalten. 1) AA Sequenzen, 2)3)4) sind Sekundärstrukturen.

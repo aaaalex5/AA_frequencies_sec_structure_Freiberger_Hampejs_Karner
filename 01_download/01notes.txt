@@ -1,0 +1,4 @@
+In 01_download in 
+- bin: symbolic link zum verwendeten python Skript
+- data: alle Daten welche für den 1. Schritt nötig sind. + 10 pdb files die die Rohdaten darstellen sofern etwas in den .txt Dateien steht
+- results: durch das Ausführen des Skripts werden die AA Sequenzen in results geladen 

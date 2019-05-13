@@ -1,0 +1,24 @@
+Planung
+
+Meilensteine: 
+1) pdb files downloaden
+2) pdb files in csv umwandeln (human readable)
+3) visualisieren
+
+Workpackages:
+1) 3h
+Planung und Literaturrecherche; Informieren und Lesen (pdb files, AA Struktur)
+2) 1h
+Selektion der Datensätze. Wie genereiere ich zufällige Daten - Zufallsgenerator. 
+Datenbank auswählen. 
+3) 20h
+Erstellen der Skript Files.
+input = pdb files und 100 files von Datenbank
+output = csv file mit daten
+4) 1h
+Auswertung und Visualisierung mittels Biopython pdb Modules
+output = Grafik
+5) 1h
+Überprüfung auf Reproduzierbarkeit und Sinnhaftigkeit des Ergebnisses. 
+
+Ziel: Relative Häufigkeit tabellarisch und grafisch für jede Sekundärstruktur (Beta Faltblatt, Alpha Helix, Irregulare) darstellen

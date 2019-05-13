@@ -1,0 +1,8 @@
+Es gibt zwei Möglichkeiten: 
+
+1) rufe runall.sh auf und fertig
+
+2) rufe die scripts run01 bis run03 auf
+für run01 gehe in Ordner 01_download
+für run02 gehe in Ordner 02_parse_pdb_files
+für run03 gehe in Ordner 03_Visualisation

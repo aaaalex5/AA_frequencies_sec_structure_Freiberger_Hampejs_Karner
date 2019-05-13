@@ -1,0 +1,5 @@
+3_visualisation 
+- bin: symbolic link vom verwendeten python file
+- data: link vom txt file von 02_parse_pdb_files/results
+- results: Grafik mit Visualisierung der relativen Häufigkeiten der Sekundärstrukturen in pdf Format
+
